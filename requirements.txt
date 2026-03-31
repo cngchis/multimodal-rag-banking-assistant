@@ -19,3 +19,4 @@ pypdf==6.9.2
 ollama==0.6.1
 fastapi==0.135.2
 langchain-ollama==0.3.0
+-e .
